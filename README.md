@@ -12,8 +12,8 @@ This is a fun, beginner-friendly **Cricket Score Tracker** built using HTML, CSS
 
 ### 🛠️ Technologies Used:
 - HTML5
-- CSS3
-- Vanilla JavaScript
+- CSS
+- JavaScript
 
 ### 🧠 What I Learned:
 - DOM manipulation
