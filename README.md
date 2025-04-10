@@ -22,4 +22,4 @@ This is a fun, beginner-friendly **Cricket Score Tracker** built using HTML, CSS
 - Responsive UI and CSS
 
 ### 👨‍💻 Author:
-**[Raj Vora]**  
+**Raj Vora**  
